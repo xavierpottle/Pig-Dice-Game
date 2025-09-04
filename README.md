@@ -17,6 +17,6 @@ A turn-based dice game for 2–4 players. Each player rolls a six‑sided die, a
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/your-username/dice-game.git
+git clone https://github.com/xavierpottle/dice-game.git
 cd dice-game
 python dice_game.py
